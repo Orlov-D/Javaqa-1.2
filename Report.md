@@ -7,8 +7,8 @@
 На тестирование затрачено: 3 часа
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Orlov-D/Javaqa-1.2/issues/1
-* https://github.com/Orlov-D/Javaqa-1.2/issues/2
+* [Неверный ответ программы при вводе валидных ключей.](https://github.com/Orlov-D/Javaqa-1.2/issues/1)
+* [Неверный ответ программы при вводе невалидных ключей.](https://github.com/Orlov-D/Javaqa-1.2/issues/2)
 
 ## Описание процесса тестирования
 
